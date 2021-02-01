@@ -1,2 +1,2 @@
-# truffle-contract-sources
+# moxie-contract-sources
 Utility for finding all contracts within a directory
